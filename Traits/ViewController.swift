@@ -9,7 +9,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             tableView.delegate = self
         }
     }
-    @IBOutlet var blueView: UIView!
+    @IBOutlet weak var blueView: UIView!
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return 1
