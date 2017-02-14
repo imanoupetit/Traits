@@ -86,12 +86,12 @@
                                 <exclude reference="SUd-F8-PkG"/>
                                 <exclude reference="Vh0-iO-hhA"/>
                                 <exclude reference="aiT-va-t9l"/>
-                                <exclude reference="dmX-cu-h0s"/>
-                                <exclude reference="fxN-hT-taL"/>
                                 <exclude reference="Wzl-Ey-N2T"/>
                                 <exclude reference="qYI-Qd-2GC"/>
                                 <exclude reference="EPd-5C-zKq"/>
                                 <exclude reference="y0G-sn-tht"/>
+                                <exclude reference="dmX-cu-h0s"/>
+                                <exclude reference="fxN-hT-taL"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=compact">
@@ -102,18 +102,18 @@
                                 <include reference="7fe-SN-Umc"/>
                                 <include reference="MxE-bA-kqD"/>
                                 <include reference="SUd-F8-PkG"/>
-                                <include reference="dmX-cu-h0s"/>
                                 <include reference="Wzl-Ey-N2T"/>
                                 <include reference="EPd-5C-zKq"/>
                                 <include reference="y0G-sn-tht"/>
+                                <include reference="dmX-cu-h0s"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular">
                             <mask key="constraints">
                                 <include reference="Vh0-iO-hhA"/>
                                 <include reference="aiT-va-t9l"/>
-                                <include reference="fxN-hT-taL"/>
                                 <include reference="qYI-Qd-2GC"/>
+                                <include reference="fxN-hT-taL"/>
                             </mask>
                         </variation>
                     </view>
